@@ -3,7 +3,7 @@ $title = "Switch Statement";
 include 'includes/header.php'
 ?>
 
-<h1><?php echo $title ?></h1>;
+<h1><?php echo $title ?></h1>
 
     <?php
     $grade = 'A';

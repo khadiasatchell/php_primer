@@ -3,7 +3,7 @@ $title = "Date/Time Manipulation";
 include 'includes/header.php'
 ?>
 
-<h1><?php echo $title ?></h1>;
+<h1><?php echo $title ?></h1>
 
 <?php
     $datenow = getdate();

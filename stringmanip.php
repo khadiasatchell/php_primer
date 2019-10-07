@@ -3,7 +3,7 @@ $title = "String Manipulation";
 include 'includes/header.php'
 ?>
 
-<h1><?php echo $title ?></h1>;
+<h1><?php echo $title ?></h1>
 
     <?php
     //Concaatenation od strings

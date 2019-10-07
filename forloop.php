@@ -3,7 +3,7 @@ $title = "For Loop";
 include 'includes/header.php'
 ?>
 
-<h1><?php echo $title ?></h1>;
+<h1><?php echo $title ?></h1>
 
     <?php
         //for loops
